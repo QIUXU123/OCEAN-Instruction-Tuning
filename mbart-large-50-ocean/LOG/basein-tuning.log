@@ -1,0 +1,128 @@
+[2025-03-29 23:19:42,777]::3848060699::DEBUG::=============Mbart-large-50 instruction tuning Strat!=============
+[2025-03-29 23:48:57,023]::3848060699::DEBUG::=============Mbart-large-50 instruction tuning Strat!=============
+[2025-03-30 00:08:05,283]::3848060699::DEBUG::=============Mbart-large-50 instruction tuning Strat!=============
+[2025-03-30 00:19:30,610]::3848060699::DEBUG::=============Mbart-large-50 instruction tuning Strat!=============
+[2025-03-30 00:20:35,231]::3848060699::DEBUG::=============Mbart-large-50 instruction tuning Strat!=============
+[2025-03-30 00:21:03,686]::3848060699::DEBUG::=============Mbart-large-50 instruction tuning Strat!=============
+[2025-03-30 00:22:30,862]::3848060699::DEBUG::=============Mbart-large-50 instruction tuning Strat!=============
+[2025-03-30 00:23:18,851]::3848060699::DEBUG::=============Mbart-large-50 instruction tuning Strat!=============
+[2025-03-30 00:37:43,761]::3848060699::DEBUG::=============Mbart-large-50 instruction tuning Strat!=============
+[2025-03-30 00:38:47,810]::3848060699::DEBUG::=============Mbart-large-50 instruction tuning Strat!=============
+[2025-03-30 00:40:01,602]::3848060699::DEBUG::=============Mbart-large-50 instruction tuning Strat!=============
+[2025-03-30 00:45:20,578]::3848060699::DEBUG::=============Mbart-large-50 instruction tuning Strat!=============
+[2025-03-30 00:46:17,070]::3848060699::DEBUG::=============Mbart-large-50 instruction tuning Strat!=============
+[2025-03-30 00:49:50,625]::3848060699::DEBUG::=============Mbart-large-50 instruction tuning Strat!=============
+[2025-03-30 00:52:39,963]::3848060699::DEBUG::=============Mbart-large-50 instruction tuning Strat!=============
+[2025-03-30 00:54:27,520]::3848060699::DEBUG::=============Mbart-large-50 instruction tuning Strat!=============
+[2025-03-30 00:55:14,221]::3848060699::DEBUG::=============Mbart-large-50 instruction tuning Strat!=============
+[2025-03-30 00:57:51,598]::3848060699::DEBUG::=============Mbart-large-50 instruction tuning Strat!=============
+[2025-03-30 01:00:54,471]::3848060699::DEBUG::=============Mbart-large-50 instruction tuning Strat!=============
+[2025-03-30 01:21:25,014]::3848060699::DEBUG::=============Mbart-large-50 instruction tuning Strat!=============
+[2025-03-30 01:22:24,811]::3848060699::DEBUG::=============Mbart-large-50 instruction tuning Strat!=============
+[2025-03-30 01:23:57,619]::3848060699::DEBUG::=============Mbart-large-50 instruction tuning Strat!=============
+[2025-03-30 01:24:45,251]::3848060699::DEBUG::=============Mbart-large-50 instruction tuning Strat!=============
+[2025-03-30 01:25:29,245]::3848060699::DEBUG::=============Mbart-large-50 instruction tuning Strat!=============
+[2025-03-30 01:31:42,154]::3848060699::DEBUG::=============Mbart-large-50 instruction tuning Strat!=============
+[2025-03-30 01:33:24,059]::3848060699::DEBUG::=============Mbart-large-50 instruction tuning Strat!=============
+[2025-03-30 01:34:25,068]::3848060699::DEBUG::=============Mbart-large-50 instruction tuning Strat!=============
+[2025-03-30 01:35:14,413]::3848060699::DEBUG::=============Mbart-large-50 instruction tuning Strat!=============
+[2025-03-30 01:42:13,259]::1875635423::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8598
+[2025-03-30 01:48:52,989]::1875635423::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8364
+[2025-03-30 01:55:29,713]::1875635423::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8269
+[2025-03-30 02:02:10,430]::1875635423::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8529
+[2025-03-30 02:08:50,342]::1875635423::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8492
+[2025-03-30 02:15:30,039]::1875635423::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.7893
+[2025-03-30 02:22:13,160]::1875635423::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.7865
+[2025-03-30 02:28:51,618]::1875635423::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8048
+[2025-03-30 02:35:29,778]::1875635423::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8147
+[2025-03-30 02:42:12,137]::1875635423::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8379
+[2025-03-30 02:48:55,809]::1875635423::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8118
+[2025-03-30 02:55:41,929]::1875635423::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8127
+[2025-03-30 03:02:25,397]::1875635423::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8380
+[2025-03-30 03:09:05,870]::1875635423::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8056
+[2025-03-30 03:15:45,931]::1875635423::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8083
+[2025-03-30 03:22:25,550]::1875635423::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8167
+[2025-03-30 03:29:07,194]::1875635423::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8070
+[2025-03-30 03:35:50,766]::1875635423::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8268
+[2025-03-30 03:42:32,125]::1875635423::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8285
+[2025-03-30 03:49:14,175]::1875635423::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.2915
+[2025-03-30 03:55:57,152]::1875635423::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8307
+[2025-03-30 04:02:40,118]::1875635423::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8260
+[2025-03-30 04:09:20,458]::1875635423::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8305
+[2025-03-30 04:16:01,444]::1875635423::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8341
+[2025-03-30 04:22:39,492]::1875635423::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8312
+[2025-03-30 04:29:16,125]::1875635423::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.2946
+[2025-03-30 04:35:53,307]::1875635423::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8296
+[2025-03-30 04:42:29,808]::1875635423::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8283
+[2025-03-30 04:49:06,641]::1875635423::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8317
+[2025-03-30 04:55:43,237]::1875635423::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8296
+[2025-03-30 05:02:19,836]::1875635423::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8381
+[2025-03-30 05:08:56,365]::1875635423::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8314
+[2025-03-30 05:15:32,741]::1875635423::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8345
+[2025-03-30 05:22:09,321]::1875635423::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8388
+[2025-03-30 05:28:46,885]::1875635423::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8378
+[2025-03-30 05:35:23,905]::1875635423::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8384
+[2025-03-30 05:42:01,845]::1875635423::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.3057
+[2025-03-30 05:48:39,577]::1875635423::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8373
+[2025-03-30 05:55:17,905]::1875635423::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8415
+[2025-03-30 06:01:55,218]::1875635423::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8365
+[2025-03-30 06:08:33,264]::1875635423::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.3034
+[2025-03-30 06:15:11,151]::1875635423::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: -0.6226
+[2025-03-30 06:21:49,351]::1875635423::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: -1.2989
+[2025-03-30 06:28:26,274]::1875635423::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.3032
+[2025-03-30 06:35:03,743]::1875635423::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: -0.7613
+[2025-03-30 06:41:40,868]::1875635423::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8394
+[2025-03-30 06:48:18,257]::1875635423::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8391
+[2025-03-30 06:54:55,706]::1875635423::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: -0.2284
+[2025-03-30 07:01:33,667]::1875635423::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: -1.2996
+[2025-03-30 07:08:10,645]::1875635423::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: -1.2980
